@@ -5,7 +5,7 @@
   <p><b>A Self-Evolving LLM Agent via Contextual Information Density Maximization</b></p>
 
   <p>
-    <a href="main.pdf"><img src="https://img.shields.io/badge/Technical%20Report-PDF-red" alt="Technical Report"></a>
+    <a href="https://arxiv.org/abs/2604.17091"><img src="https://img.shields.io/badge/Technical%20Report-PDF-red" alt="Technical Report"></a>
     <a href="https://github.com/lsdefine/GenericAgent"><img src="https://img.shields.io/badge/Code-GitHub-black?logo=github" alt="Code"></a>
     <img src="https://img.shields.io/badge/Version-V1.0-blue" alt="Version">
     <img src="https://img.shields.io/badge/License-Research-lightgrey" alt="License">
@@ -25,7 +25,7 @@
 
 - 🧠 **Self-evolving by design** — an autonomous trajectory → SOP → executable-code distillation pipeline, no manual prompt tuning
 - 🪶 **Nine atomic tools, not fifty** — broad capability through composition, not tool enumeration
-- 📉 **~1/3 the token cost** of today's leading agent systems, at matched or better task success
+- 📉 **~1/6 the token cost** of today's leading agent systems, at matched or better task success
 - 📚 **No external vector DB needed** — beats embedding-based retrievers on LoCoMo with pure hierarchical memory
 - 🔁 **Evolves with use** — nine-round longitudinal runs show **–89.6%** tokens, **–78%** runtime, **–84%** LLM calls
 
